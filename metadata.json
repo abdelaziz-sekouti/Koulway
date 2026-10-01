@@ -1,0 +1,6 @@
+{
+  "name": "Koulway Restaurant Tetouan",
+  "description": "Koulway Grill & Fast Food Tétouan - Smash burgers croustillants, tacos gratinés, paninis artisanaux et livraison rapide. Commandez sur WhatsApp au +212669689856.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
